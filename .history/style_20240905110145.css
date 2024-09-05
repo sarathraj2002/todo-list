@@ -1,0 +1,12 @@
+body{
+    background-color: skyblue;
+    background-size: cover;
+}
+.container{
+    height: 100px;
+    padding-top: 01%;
+
+}
+.countbox{
+    height: 100px;
+}

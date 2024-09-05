@@ -1,0 +1,19 @@
+body{
+    background-color: skyblue;
+    background-size: cover;
+}
+.container{
+    height: 100px;
+    padding-top: 10%;
+
+}
+.form{
+    height: 100%;
+    width: 40%;
+    padding: 10px;
+    border-color:black;
+    margin-left: 10%;
+    border-radius: 5px;
+    background-color: white;
+    m
+}

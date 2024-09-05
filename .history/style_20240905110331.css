@@ -1,0 +1,13 @@
+body{
+    background-color: skyblue;
+    background-size: cover;
+}
+.container{
+    height: 100px;
+    padding-top: 10%;
+
+}
+.form{
+    height: 200%;
+    width: 60%;
+}
